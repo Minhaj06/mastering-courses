@@ -792,7 +792,7 @@
 	}
 	.logo {
 		font-size: 30px;
-		width: auto;
+		padding-top: 1px;
 	}
 	.phone {
 		width: 226px;
